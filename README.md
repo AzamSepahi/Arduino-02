@@ -1,5 +1,5 @@
 # Arduino-02
-Test(02)-Blink,Calculator,Sine and cosine wave display
+ > Test(02)-Blink,Calculator,Sine and cosine wave display
 ---
 ## Tools
 
@@ -12,6 +12,6 @@ Test(02)-Blink,Calculator,Sine and cosine wave display
 | 5           | Resistance  |   2    |
 
 ## Microprocessor
-![alt text](Micro.jpg)
+> ![blink_circit](/Media/Micro.jpg) 
 
 ## Wire
