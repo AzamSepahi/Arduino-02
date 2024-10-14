@@ -30,8 +30,19 @@
  ![blink_circit](/Media/Resistance.jpg)
 
 ---
-## Function of circuits
 
-![blink_circit](/https://github.com/AzamSepahi/Arduino-02/blob/main/Media/Code02.gif)
+## Video one
 
-## 
+![blink_circit](/Media/video_1.gif)
+
+## Video two
+
+![blink_circit](/Media/video_2.gif)
+
+## Video three
+
+![blink_circit](/Media/video_3.gif)
+
+## Video four
+
+![blink_circit](/Media/video_4.gif)
