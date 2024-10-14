@@ -30,4 +30,8 @@
  ![blink_circit](/Media/Resistance.jpg)
 
 ---
+## Function of circuits
 
+![blink_video](/Media/Code02)
+
+## 
