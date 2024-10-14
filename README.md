@@ -37,7 +37,7 @@
 
 ## Video two
 
-![blink_circit](/Media/video_2.gif)
+![blink_circit](/Media/video_4.gif)
 
 ## Video three
 
@@ -45,4 +45,4 @@
 
 ## Video four
 
-![blink_circit](/Media/video_4.gif)
+![blink_circit](/Media/video_2.gif)
