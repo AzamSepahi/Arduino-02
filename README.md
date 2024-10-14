@@ -1,5 +1,8 @@
 # Arduino-02
-## Test(02)-Blink,Calculator,Sine and cosine wave display
+## Test(02)
+1. Blink
+2. Calculator
+3. Sine and cosine wave disply
 ---
 ## Tools
 
