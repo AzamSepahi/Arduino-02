@@ -14,10 +14,10 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 digitalWrite(Led1,HIGH);
-digitalWrite(Led2,LOW);
+digitalWrite(Led2,HIGH);
 delay(1000);
 digitalWrite(Led1,LOW);
-digitalWrite(Led2,HIGH);
+digitalWrite(Led2,LOW);
 delay(1000);
 
 
