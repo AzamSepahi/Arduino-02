@@ -32,6 +32,6 @@
 ---
 ## Function of circuits
 
-![blink_video](/https://github.com/AzamSepahi/Arduino-02/blob/main/Media/Code02.gif)
+![blink_circit](/https://github.com/AzamSepahi/Arduino-02/blob/main/Media/Code02.gif)
 
 ## 
