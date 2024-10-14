@@ -11,21 +11,20 @@
 | 4           | Board       |   1    |
 | 5           | Resistance  |   2    |
 
-## Microprocessor
-> ![blink_circit](/Media/Micro.jpg) 
+> ## Microprocessor
+ ![blink_circit](/Media/Micro.jpg) 
 
-## Wire
-> ![blink_circit](/Media/Wire.jpg)
+> ## Wire
+ ![blink_circit](/Media/Wire.jpg)
 
- ## LED
-> ![blink_circit](/Media/LED.jpg)
+ > ## LED
+ ![blink_circit](/Media/LED.jpg)
 
-## Board
-> ![blink_circit](/Media/Board.jpg)
+> ## Board
+ ![blink_circit](/Media/Board.jpg)
 
-## Resistance
-> ![blink_circit](/Media/Resistance.jpg)
+> ## Resistance
+ ![blink_circit](/Media/Resistance.jpg)
 
 ---
-
 
