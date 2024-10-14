@@ -27,4 +27,4 @@
  ![blink_circit](/Media/Resistance.jpg)
 
 ---
-
+ ![blink_video](https://github.com/AzamSepahi/Ardino-02/blob/main/Media/GIF.gif)
