@@ -28,7 +28,4 @@
 
 ---
 
-> ![blink_video](https://github.com/AzamSepahi/Ardino-02/blob/main/Media/GifCode-10.gif)
-
-### مدار در حالت روشن ☀️ 
 
